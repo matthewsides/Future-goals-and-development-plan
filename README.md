@@ -45,5 +45,5 @@ Things that have not been offically agreed on but which are suggested by the aut
 | ID          | Goal                                             | Duration                       | Mile stone                        |
 |-------------|--------------------------------------------------|--------------------------------|-----------------------------------|
 | 1.00        | Attain a HND in Video Game Design and Production | 1 Year (Short Term)            | Achieve Minimum Grade in Projects |
-| 2.00        | Work in the area of Games Design or Programming  | 5 Year (Long Term)             | Gain HND Qualification & Build a Portfolio     | 
-|             |                                                  |                                |                                   | 
+| 2.00        | Work in the area of Games Design or Programming  | 5 Year (Long Term)             | Gain HND Qualification & Build a Portfolio     |3.00 
+| 3.00           | Gain a greater understanding and improve my skills in related subjects that confrom around my work (build upon and gain experience)                                                  | 8 Year (Long Term)                                 | Build a portfolio up to industry and business standards also following CPD practices | 
