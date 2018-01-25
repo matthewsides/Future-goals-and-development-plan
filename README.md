@@ -42,8 +42,8 @@ Things that have not been offically agreed on but which are suggested by the aut
 
 
 
-| ID          | Goal                                             | Duration                       | Mile stone                     |
-|-------------|--------------------------------------------------|--------------------------------|--------------------------------|
-| 1.00        | Attain a HND in Video Game Design and Production | 1 Year (Short Term)            |                                |
-|             |                                                  |                                |                                | 
-|             |                                                  |                                |                                | 
+| ID          | Goal                                             | Duration                       | Mile stone                        |
+|-------------|--------------------------------------------------|--------------------------------|-----------------------------------|
+| 1.00        | Attain a HND in Video Game Design and Production | 1 Year (Short Term)            | Achieve Minimum Grade in Projects |
+|             |                                                  |                                |                                   | 
+|             |                                                  |                                |                                   | 
