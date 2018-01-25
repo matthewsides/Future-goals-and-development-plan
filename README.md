@@ -39,3 +39,11 @@ Things that have been discussed in a meeting are presented in this document with
 Things that have not been offically agreed on but which are suggested by the author are presented with asterisks, like this (*),being marked as omitted until it has been agreed upon that it may be of use or implemented.
 
 ### [4]
+
+
+
+| ID          | Goal                                             | Duration                       | Mile stone                     |
+|-------------|--------------------------------------------------|--------------------------------|--------------------------------|
+| 1.00        | Attain a HND in Video Game Design and Production | 1 Year                         |                                |
+|             |                                                  |                                |                                | 
+|             |                                                  |                                |                                | 
